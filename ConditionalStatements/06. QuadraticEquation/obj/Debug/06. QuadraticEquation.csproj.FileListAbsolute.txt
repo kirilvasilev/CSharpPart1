@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 5\ConditionalStatements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+D:\Lections\Projects\Homework 5\ConditionalStatements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+D:\Lections\Projects\Homework 5\ConditionalStatements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+D:\Lections\Projects\Homework 5\ConditionalStatements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+D:\Lections\Projects\Homework 5\ConditionalStatements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb

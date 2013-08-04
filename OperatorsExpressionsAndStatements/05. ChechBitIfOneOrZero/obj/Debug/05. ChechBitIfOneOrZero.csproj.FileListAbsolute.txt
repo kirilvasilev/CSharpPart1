@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\05. ChechBitIfOneOrZero\bin\Debug\_05.ChechBitIfOneOrZero.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\05. ChechBitIfOneOrZero\bin\Debug\_05.ChechBitIfOneOrZero.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\05. ChechBitIfOneOrZero\bin\Debug\_05.ChechBitIfOneOrZero.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\05. ChechBitIfOneOrZero\obj\Debug\_05.ChechBitIfOneOrZero.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\05. ChechBitIfOneOrZero\obj\Debug\_05.ChechBitIfOneOrZero.pdb

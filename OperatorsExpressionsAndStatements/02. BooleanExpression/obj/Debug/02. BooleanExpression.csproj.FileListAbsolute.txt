@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\02. BooleanExpression\bin\Debug\_02.BooleanExpression.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\02. BooleanExpression\bin\Debug\_02.BooleanExpression.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\02. BooleanExpression\bin\Debug\_02.BooleanExpression.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\02. BooleanExpression\obj\Debug\_02.BooleanExpression.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\02. BooleanExpression\obj\Debug\_02.BooleanExpression.pdb

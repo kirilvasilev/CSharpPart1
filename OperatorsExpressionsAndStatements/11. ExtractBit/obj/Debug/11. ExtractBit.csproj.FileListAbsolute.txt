@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\11. ExtractBit\bin\Debug\_11.ExtractBit.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\11. ExtractBit\bin\Debug\_11.ExtractBit.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\11. ExtractBit\bin\Debug\_11.ExtractBit.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\11. ExtractBit\obj\Debug\_11.ExtractBit.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\11. ExtractBit\obj\Debug\_11.ExtractBit.pdb

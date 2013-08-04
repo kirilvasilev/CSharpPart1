@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\04. ThirdDigitIs7\bin\Debug\_04.ThirdDigitIs7.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\04. ThirdDigitIs7\bin\Debug\_04.ThirdDigitIs7.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\04. ThirdDigitIs7\bin\Debug\_04.ThirdDigitIs7.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\04. ThirdDigitIs7\obj\Debug\_04.ThirdDigitIs7.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\04. ThirdDigitIs7\obj\Debug\_04.ThirdDigitIs7.pdb

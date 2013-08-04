@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\01. OddOrEven\bin\Debug\_01.OddOrEven.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\01. OddOrEven\bin\Debug\_01.OddOrEven.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\01. OddOrEven\bin\Debug\_01.OddOrEven.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\01. OddOrEven\obj\Debug\01. OddOrEven.csprojResolveAssemblyReference.cache
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\01. OddOrEven\obj\Debug\_01.OddOrEven.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\01. OddOrEven\obj\Debug\_01.OddOrEven.pdb

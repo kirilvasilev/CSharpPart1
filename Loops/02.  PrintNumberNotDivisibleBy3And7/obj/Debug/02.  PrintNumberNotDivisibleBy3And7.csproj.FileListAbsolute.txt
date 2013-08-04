@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 6\Loops\02.  PrintNumberNotDivisibleBy3And7\bin\Debug\_02.PrintNumberNotDivisibleBy3And7.exe.config
+D:\Lections\Projects\Homework 6\Loops\02.  PrintNumberNotDivisibleBy3And7\bin\Debug\_02.PrintNumberNotDivisibleBy3And7.exe
+D:\Lections\Projects\Homework 6\Loops\02.  PrintNumberNotDivisibleBy3And7\bin\Debug\_02.PrintNumberNotDivisibleBy3And7.pdb
+D:\Lections\Projects\Homework 6\Loops\02.  PrintNumberNotDivisibleBy3And7\obj\Debug\_02.PrintNumberNotDivisibleBy3And7.exe
+D:\Lections\Projects\Homework 6\Loops\02.  PrintNumberNotDivisibleBy3And7\obj\Debug\_02.PrintNumberNotDivisibleBy3And7.pdb

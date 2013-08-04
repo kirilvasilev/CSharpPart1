@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\7. StringAndObjectVariables\bin\Debug\_7.StringAndObjectVariables.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\7. StringAndObjectVariables\bin\Debug\_7.StringAndObjectVariables.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\7. StringAndObjectVariables\bin\Debug\_7.StringAndObjectVariables.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\7. StringAndObjectVariables\obj\Debug\_7.StringAndObjectVariables.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\7. StringAndObjectVariables\obj\Debug\_7.StringAndObjectVariables.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\7. StringAndObjectVariables\obj\Debug\7. StringAndObjectVariables.csprojResolveAssemblyReference.cache

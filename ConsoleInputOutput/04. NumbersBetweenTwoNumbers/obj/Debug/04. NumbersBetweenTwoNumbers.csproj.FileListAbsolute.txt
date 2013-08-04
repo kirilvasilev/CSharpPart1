@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\04. NumbersBetweenTwoNumbers\bin\Debug\_04.NumbersBetweenTwoNumbers.exe.config
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\04. NumbersBetweenTwoNumbers\bin\Debug\_04.NumbersBetweenTwoNumbers.exe
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\04. NumbersBetweenTwoNumbers\bin\Debug\_04.NumbersBetweenTwoNumbers.pdb
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\04. NumbersBetweenTwoNumbers\obj\Debug\04. NumbersBetweenTwoNumbers.csprojResolveAssemblyReference.cache
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\04. NumbersBetweenTwoNumbers\obj\Debug\_04.NumbersBetweenTwoNumbers.exe
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\04. NumbersBetweenTwoNumbers\obj\Debug\_04.NumbersBetweenTwoNumbers.pdb

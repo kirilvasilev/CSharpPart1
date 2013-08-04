@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\5. CharecterVariable\bin\Debug\_5.CharecterVariable.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\5. CharecterVariable\bin\Debug\_5.CharecterVariable.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\5. CharecterVariable\bin\Debug\_5.CharecterVariable.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\5. CharecterVariable\obj\Debug\_5.CharecterVariable.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\5. CharecterVariable\obj\Debug\_5.CharecterVariable.pdb

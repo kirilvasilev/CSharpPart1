@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\10. BitIsOne\bin\Debug\_10.BitIsOne.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\10. BitIsOne\bin\Debug\_10.BitIsOne.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\10. BitIsOne\bin\Debug\_10.BitIsOne.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\10. BitIsOne\obj\Debug\_10.BitIsOne.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\10. BitIsOne\obj\Debug\_10.BitIsOne.pdb

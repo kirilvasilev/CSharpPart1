@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 1\Square\Square\bin\Debug\Square.exe.config
+D:\Lections\Projects\Homework 1\Square\Square\bin\Debug\Square.exe
+D:\Lections\Projects\Homework 1\Square\Square\bin\Debug\Square.pdb
+D:\Lections\Projects\Homework 1\Square\Square\obj\Debug\Square.exe
+D:\Lections\Projects\Homework 1\Square\Square\obj\Debug\Square.pdb

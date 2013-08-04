@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\08. TrapezoidArea\bin\Debug\_08.TrapezoidArea.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\08. TrapezoidArea\bin\Debug\_08.TrapezoidArea.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\08. TrapezoidArea\bin\Debug\_08.TrapezoidArea.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\08. TrapezoidArea\obj\Debug\_08.TrapezoidArea.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\08. TrapezoidArea\obj\Debug\_08.TrapezoidArea.pdb

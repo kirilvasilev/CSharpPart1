@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\01. TreeIntegersSum\bin\Debug\_01.TreeIntegersSum.exe.config
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\01. TreeIntegersSum\bin\Debug\_01.TreeIntegersSum.exe
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\01. TreeIntegersSum\bin\Debug\_01.TreeIntegersSum.pdb
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\01. TreeIntegersSum\obj\Debug\01. TreeIntegersSum.csprojResolveAssemblyReference.cache
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\01. TreeIntegersSum\obj\Debug\_01.TreeIntegersSum.exe
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\01. TreeIntegersSum\obj\Debug\_01.TreeIntegersSum.pdb

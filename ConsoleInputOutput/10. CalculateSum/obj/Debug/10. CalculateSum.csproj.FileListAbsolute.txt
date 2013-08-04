@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\10. CalculateSum\bin\Debug\_10.CalculateSum.exe.config
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\10. CalculateSum\bin\Debug\_10.CalculateSum.exe
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\10. CalculateSum\bin\Debug\_10.CalculateSum.pdb
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\10. CalculateSum\obj\Debug\_10.CalculateSum.exe
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\10. CalculateSum\obj\Debug\_10.CalculateSum.pdb

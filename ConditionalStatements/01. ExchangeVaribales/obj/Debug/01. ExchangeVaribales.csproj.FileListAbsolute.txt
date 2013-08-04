@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 5\ConditionalStatements\01. ExchangeVaribales\bin\Debug\_01.ExchangeVaribales.exe.config
+D:\Lections\Projects\Homework 5\ConditionalStatements\01. ExchangeVaribales\bin\Debug\_01.ExchangeVaribales.exe
+D:\Lections\Projects\Homework 5\ConditionalStatements\01. ExchangeVaribales\bin\Debug\_01.ExchangeVaribales.pdb
+D:\Lections\Projects\Homework 5\ConditionalStatements\01. ExchangeVaribales\obj\Debug\01. ExchangeVaribales.csprojResolveAssemblyReference.cache
+D:\Lections\Projects\Homework 5\ConditionalStatements\01. ExchangeVaribales\obj\Debug\_01.ExchangeVaribales.exe
+D:\Lections\Projects\Homework 5\ConditionalStatements\01. ExchangeVaribales\obj\Debug\_01.ExchangeVaribales.pdb

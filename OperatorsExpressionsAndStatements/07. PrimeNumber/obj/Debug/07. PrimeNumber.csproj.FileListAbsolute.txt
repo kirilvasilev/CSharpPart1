@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\07. PrimeNumber\bin\Debug\_07.PrimeNumber.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\07. PrimeNumber\bin\Debug\_07.PrimeNumber.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\07. PrimeNumber\bin\Debug\_07.PrimeNumber.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\07. PrimeNumber\obj\Debug\_07.PrimeNumber.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\07. PrimeNumber\obj\Debug\_07.PrimeNumber.pdb

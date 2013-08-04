@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\10. FirmRecords\bin\Debug\_10.FirmRecords.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\10. FirmRecords\obj\Debug\10. FirmRecords.csprojResolveAssemblyReference.cache
+D:\Lections\Projects\Homework 2\Homework2DataTypes\10. FirmRecords\bin\Debug\_10.FirmRecords.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\10. FirmRecords\bin\Debug\_10.FirmRecords.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\10. FirmRecords\obj\Debug\_10.FirmRecords.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\10. FirmRecords\obj\Debug\_10.FirmRecords.pdb

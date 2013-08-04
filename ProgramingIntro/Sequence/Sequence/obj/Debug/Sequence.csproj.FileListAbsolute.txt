@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 1\Sequence\Sequence\bin\Debug\Sequence.exe.config
+D:\Lections\Projects\Homework 1\Sequence\Sequence\bin\Debug\Sequence.exe
+D:\Lections\Projects\Homework 1\Sequence\Sequence\bin\Debug\Sequence.pdb
+D:\Lections\Projects\Homework 1\Sequence\Sequence\obj\Debug\Sequence.exe
+D:\Lections\Projects\Homework 1\Sequence\Sequence\obj\Debug\Sequence.pdb

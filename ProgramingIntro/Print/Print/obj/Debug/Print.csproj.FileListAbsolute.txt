@@ -1,0 +1,9 @@
+D:\Lections\Projects\Print\Print\bin\Debug\Print.exe.config
+D:\Lections\Projects\Print\Print\bin\Debug\Print.exe
+D:\Lections\Projects\Print\Print\bin\Debug\Print.pdb
+D:\Lections\Projects\Print\Print\obj\Debug\Print.csprojResolveAssemblyReference.cache
+D:\Lections\Projects\Print\Print\obj\Debug\Print.exe
+D:\Lections\Projects\Print\Print\obj\Debug\Print.pdb
+D:\Lections\Projects\Homework 1\Print\Print\bin\Debug\Print.exe.config
+D:\Lections\Projects\Homework 1\Print\Print\obj\Debug\Print.exe
+D:\Lections\Projects\Homework 1\Print\Print\obj\Debug\Print.pdb

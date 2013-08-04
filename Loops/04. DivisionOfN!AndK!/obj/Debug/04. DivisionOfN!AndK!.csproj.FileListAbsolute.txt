@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 6\Loops\04. DivisionOfN!AndK!\bin\Debug\_04.DivisionOfN_AndK_.exe.config
+D:\Lections\Projects\Homework 6\Loops\04. DivisionOfN!AndK!\bin\Debug\_04.DivisionOfN_AndK_.exe
+D:\Lections\Projects\Homework 6\Loops\04. DivisionOfN!AndK!\bin\Debug\_04.DivisionOfN_AndK_.pdb
+D:\Lections\Projects\Homework 6\Loops\04. DivisionOfN!AndK!\obj\Debug\_04.DivisionOfN_AndK_.exe
+D:\Lections\Projects\Homework 6\Loops\04. DivisionOfN!AndK!\obj\Debug\_04.DivisionOfN_AndK_.pdb

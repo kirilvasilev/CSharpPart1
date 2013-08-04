@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\6. BooleanVariable\bin\Debug\_6.BooleanVariable.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\6. BooleanVariable\bin\Debug\_6.BooleanVariable.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\6. BooleanVariable\bin\Debug\_6.BooleanVariable.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\6. BooleanVariable\obj\Debug\_6.BooleanVariable.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\6. BooleanVariable\obj\Debug\_6.BooleanVariable.pdb

@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\9. IsoscelesTriangle\bin\Debug\_9.IsoscelesTriangle.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\9. IsoscelesTriangle\bin\Debug\_9.IsoscelesTriangle.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\9. IsoscelesTriangle\bin\Debug\_9.IsoscelesTriangle.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\9. IsoscelesTriangle\obj\Debug\9. IsoscelesTriangle.csprojResolveAssemblyReference.cache
+D:\Lections\Projects\Homework 2\Homework2DataTypes\9. IsoscelesTriangle\obj\Debug\_9.IsoscelesTriangle.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\9. IsoscelesTriangle\obj\Debug\_9.IsoscelesTriangle.pdb

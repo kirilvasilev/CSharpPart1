@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 1\Age\Age\bin\Debug\Age.exe.config
+D:\Lections\Projects\Homework 1\Age\Age\bin\Debug\Age.exe
+D:\Lections\Projects\Homework 1\Age\Age\bin\Debug\Age.pdb
+D:\Lections\Projects\Homework 1\Age\Age\obj\Debug\Age.exe
+D:\Lections\Projects\Homework 1\Age\Age\obj\Debug\Age.pdb

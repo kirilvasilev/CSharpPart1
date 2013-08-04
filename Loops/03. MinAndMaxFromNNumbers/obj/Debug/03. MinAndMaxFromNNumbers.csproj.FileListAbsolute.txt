@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 6\Loops\03. MinAndMaxFromNNumbers\bin\Debug\_03.MinAndMaxFromNNumbers.exe.config
+D:\Lections\Projects\Homework 6\Loops\03. MinAndMaxFromNNumbers\bin\Debug\_03.MinAndMaxFromNNumbers.exe
+D:\Lections\Projects\Homework 6\Loops\03. MinAndMaxFromNNumbers\bin\Debug\_03.MinAndMaxFromNNumbers.pdb
+D:\Lections\Projects\Homework 6\Loops\03. MinAndMaxFromNNumbers\obj\Debug\_03.MinAndMaxFromNNumbers.exe
+D:\Lections\Projects\Homework 6\Loops\03. MinAndMaxFromNNumbers\obj\Debug\_03.MinAndMaxFromNNumbers.pdb

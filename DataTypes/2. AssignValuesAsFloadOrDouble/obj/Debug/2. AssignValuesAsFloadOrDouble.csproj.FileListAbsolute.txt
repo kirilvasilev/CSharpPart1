@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\2. AssignValuesAsFloadOrDouble\bin\Debug\_2.AssignValuesAsFloadOrDouble.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\2. AssignValuesAsFloadOrDouble\bin\Debug\_2.AssignValuesAsFloadOrDouble.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\2. AssignValuesAsFloadOrDouble\bin\Debug\_2.AssignValuesAsFloadOrDouble.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\2. AssignValuesAsFloadOrDouble\obj\Debug\_2.AssignValuesAsFloadOrDouble.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\2. AssignValuesAsFloadOrDouble\obj\Debug\_2.AssignValuesAsFloadOrDouble.pdb

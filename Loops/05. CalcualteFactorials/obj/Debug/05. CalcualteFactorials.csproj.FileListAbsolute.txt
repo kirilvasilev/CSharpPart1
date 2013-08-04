@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 6\Loops\05. CalcualteFactorials\bin\Debug\_05.CalcualteFactorials.exe.config
+D:\Lections\Projects\Homework 6\Loops\05. CalcualteFactorials\bin\Debug\_05.CalcualteFactorials.exe
+D:\Lections\Projects\Homework 6\Loops\05. CalcualteFactorials\bin\Debug\_05.CalcualteFactorials.pdb
+D:\Lections\Projects\Homework 6\Loops\05. CalcualteFactorials\obj\Debug\_05.CalcualteFactorials.exe
+D:\Lections\Projects\Homework 6\Loops\05. CalcualteFactorials\obj\Debug\_05.CalcualteFactorials.pdb
+D:\Lections\Projects\Homework 6\Loops\05. CalcualteFactorials\obj\Debug\05. CalcualteFactorials.csprojResolveAssemblyReference.cache

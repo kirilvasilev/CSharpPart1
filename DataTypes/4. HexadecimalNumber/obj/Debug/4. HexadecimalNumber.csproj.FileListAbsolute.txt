@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\4. HexadecimalNumber\bin\Debug\_4.HexadecimalNumber.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\4. HexadecimalNumber\bin\Debug\_4.HexadecimalNumber.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\4. HexadecimalNumber\bin\Debug\_4.HexadecimalNumber.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\4. HexadecimalNumber\obj\Debug\_4.HexadecimalNumber.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\4. HexadecimalNumber\obj\Debug\_4.HexadecimalNumber.pdb

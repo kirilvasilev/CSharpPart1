@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 5\ConditionalStatements\04. SortValuesInDescendingOrder\bin\Debug\_04.SortValuesInDescendingOrder.exe.config
+D:\Lections\Projects\Homework 5\ConditionalStatements\04. SortValuesInDescendingOrder\obj\Debug\04. SortValuesInDescendingOrder.csprojResolveAssemblyReference.cache
+D:\Lections\Projects\Homework 5\ConditionalStatements\04. SortValuesInDescendingOrder\bin\Debug\_04.SortValuesInDescendingOrder.exe
+D:\Lections\Projects\Homework 5\ConditionalStatements\04. SortValuesInDescendingOrder\bin\Debug\_04.SortValuesInDescendingOrder.pdb
+D:\Lections\Projects\Homework 5\ConditionalStatements\04. SortValuesInDescendingOrder\obj\Debug\_04.SortValuesInDescendingOrder.exe
+D:\Lections\Projects\Homework 5\ConditionalStatements\04. SortValuesInDescendingOrder\obj\Debug\_04.SortValuesInDescendingOrder.pdb

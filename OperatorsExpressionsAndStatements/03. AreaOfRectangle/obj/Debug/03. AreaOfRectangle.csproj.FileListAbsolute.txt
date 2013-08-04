@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\03. AreaOfRectangle\bin\Debug\_03.AreaOfRectangle.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\03. AreaOfRectangle\bin\Debug\_03.AreaOfRectangle.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\03. AreaOfRectangle\bin\Debug\_03.AreaOfRectangle.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\03. AreaOfRectangle\obj\Debug\_03.AreaOfRectangle.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\03. AreaOfRectangle\obj\Debug\_03.AreaOfRectangle.pdb

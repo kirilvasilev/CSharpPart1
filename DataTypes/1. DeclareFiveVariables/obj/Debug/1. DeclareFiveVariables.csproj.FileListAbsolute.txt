@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\1. DeclareFiveVariables\bin\Debug\_1.DeclareFiveVariables.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\1. DeclareFiveVariables\bin\Debug\_1.DeclareFiveVariables.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\1. DeclareFiveVariables\bin\Debug\_1.DeclareFiveVariables.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\1. DeclareFiveVariables\obj\Debug\_1.DeclareFiveVariables.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\1. DeclareFiveVariables\obj\Debug\_1.DeclareFiveVariables.pdb

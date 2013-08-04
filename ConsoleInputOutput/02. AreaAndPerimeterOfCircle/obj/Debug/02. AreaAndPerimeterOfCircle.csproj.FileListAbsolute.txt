@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\02. AreaAndPerimeterOfCircle\bin\Debug\_02.AreaAndPerimeterOfCircle.exe.config
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\02. AreaAndPerimeterOfCircle\bin\Debug\_02.AreaAndPerimeterOfCircle.exe
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\02. AreaAndPerimeterOfCircle\bin\Debug\_02.AreaAndPerimeterOfCircle.pdb
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\02. AreaAndPerimeterOfCircle\obj\Debug\_02.AreaAndPerimeterOfCircle.exe
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\02. AreaAndPerimeterOfCircle\obj\Debug\_02.AreaAndPerimeterOfCircle.pdb
+D:\Lections\Projects\Homework 4\ConsoleInputOutput\02. AreaAndPerimeterOfCircle\obj\Debug\02. AreaAndPerimeterOfCircle.csprojResolveAssemblyReference.cache

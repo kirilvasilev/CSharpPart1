@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\06. IfPointInCircle\bin\Debug\_06.IfPointInCircle.exe.config
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\06. IfPointInCircle\bin\Debug\_06.IfPointInCircle.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\06. IfPointInCircle\bin\Debug\_06.IfPointInCircle.pdb
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\06. IfPointInCircle\obj\Debug\_06.IfPointInCircle.exe
+D:\Lections\Projects\Homework 3\OperatorsExpressionsAndStatements\06. IfPointInCircle\obj\Debug\_06.IfPointInCircle.pdb

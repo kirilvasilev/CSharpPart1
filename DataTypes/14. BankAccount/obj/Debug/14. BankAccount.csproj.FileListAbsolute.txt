@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\14. BankAccount\bin\Debug\_14.BankAccount.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\14. BankAccount\bin\Debug\_14.BankAccount.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\14. BankAccount\bin\Debug\_14.BankAccount.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\14. BankAccount\obj\Debug\_14.BankAccount.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\14. BankAccount\obj\Debug\_14.BankAccount.pdb

@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\11. ExchangeValues\bin\Debug\_11.ExchangeValues.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\11. ExchangeValues\bin\Debug\_11.ExchangeValues.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\11. ExchangeValues\bin\Debug\_11.ExchangeValues.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\11. ExchangeValues\obj\Debug\_11.ExchangeValues.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\11. ExchangeValues\obj\Debug\_11.ExchangeValues.pdb

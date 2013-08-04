@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\13. NullValues\bin\Debug\_13.NullValues.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\13. NullValues\bin\Debug\_13.NullValues.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\13. NullValues\bin\Debug\_13.NullValues.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\13. NullValues\obj\Debug\_13.NullValues.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\13. NullValues\obj\Debug\_13.NullValues.pdb

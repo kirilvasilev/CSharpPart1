@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\12. ASCII_Table\bin\Debug\_12.ASCII_Table.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\12. ASCII_Table\bin\Debug\_12.ASCII_Table.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\12. ASCII_Table\bin\Debug\_12.ASCII_Table.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\12. ASCII_Table\obj\Debug\_12.ASCII_Table.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\12. ASCII_Table\obj\Debug\_12.ASCII_Table.pdb

@@ -1,0 +1,6 @@
+D:\Lections\Projects\Homework 5\ConditionalStatements\08. IntDoubleStringInput\bin\Debug\_08.IntDoubleStringInput.exe.config
+D:\Lections\Projects\Homework 5\ConditionalStatements\08. IntDoubleStringInput\obj\Debug\08. IntDoubleStringInput.csprojResolveAssemblyReference.cache
+D:\Lections\Projects\Homework 5\ConditionalStatements\08. IntDoubleStringInput\bin\Debug\_08.IntDoubleStringInput.exe
+D:\Lections\Projects\Homework 5\ConditionalStatements\08. IntDoubleStringInput\bin\Debug\_08.IntDoubleStringInput.pdb
+D:\Lections\Projects\Homework 5\ConditionalStatements\08. IntDoubleStringInput\obj\Debug\_08.IntDoubleStringInput.exe
+D:\Lections\Projects\Homework 5\ConditionalStatements\08. IntDoubleStringInput\obj\Debug\_08.IntDoubleStringInput.pdb

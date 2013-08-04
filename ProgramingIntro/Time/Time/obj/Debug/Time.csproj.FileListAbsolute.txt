@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 1\Time\Time\bin\Debug\Time.exe.config
+D:\Lections\Projects\Homework 1\Time\Time\bin\Debug\Time.exe
+D:\Lections\Projects\Homework 1\Time\Time\bin\Debug\Time.pdb
+D:\Lections\Projects\Homework 1\Time\Time\obj\Debug\Time.exe
+D:\Lections\Projects\Homework 1\Time\Time\obj\Debug\Time.pdb

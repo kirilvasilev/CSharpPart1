@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 6\Loops\07. SumOfNFubonacciMembers\bin\Debug\_07.SumOfNFubonacciMembers.exe.config
+D:\Lections\Projects\Homework 6\Loops\07. SumOfNFubonacciMembers\bin\Debug\_07.SumOfNFubonacciMembers.exe
+D:\Lections\Projects\Homework 6\Loops\07. SumOfNFubonacciMembers\bin\Debug\_07.SumOfNFubonacciMembers.pdb
+D:\Lections\Projects\Homework 6\Loops\07. SumOfNFubonacciMembers\obj\Debug\_07.SumOfNFubonacciMembers.exe
+D:\Lections\Projects\Homework 6\Loops\07. SumOfNFubonacciMembers\obj\Debug\_07.SumOfNFubonacciMembers.pdb

@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 6\Loops\06. SumOfNAndX\bin\Debug\_06.SumOfNAndX.exe.config
+D:\Lections\Projects\Homework 6\Loops\06. SumOfNAndX\bin\Debug\_06.SumOfNAndX.exe
+D:\Lections\Projects\Homework 6\Loops\06. SumOfNAndX\bin\Debug\_06.SumOfNAndX.pdb
+D:\Lections\Projects\Homework 6\Loops\06. SumOfNAndX\obj\Debug\_06.SumOfNAndX.exe
+D:\Lections\Projects\Homework 6\Loops\06. SumOfNAndX\obj\Debug\_06.SumOfNAndX.pdb

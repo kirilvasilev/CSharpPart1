@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 6\Loops\10. CatalinaNumbers\bin\Debug\_10.CatalinaNumbers.exe.config
+D:\Lections\Projects\Homework 6\Loops\10. CatalinaNumbers\bin\Debug\_10.CatalinaNumbers.exe
+D:\Lections\Projects\Homework 6\Loops\10. CatalinaNumbers\bin\Debug\_10.CatalinaNumbers.pdb
+D:\Lections\Projects\Homework 6\Loops\10. CatalinaNumbers\obj\Debug\_10.CatalinaNumbers.exe
+D:\Lections\Projects\Homework 6\Loops\10. CatalinaNumbers\obj\Debug\_10.CatalinaNumbers.pdb

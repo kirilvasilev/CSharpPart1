@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 1\Name\Name\bin\Debug\Name.exe.config
+D:\Lections\Projects\Homework 1\Name\Name\bin\Debug\Name.exe
+D:\Lections\Projects\Homework 1\Name\Name\bin\Debug\Name.pdb
+D:\Lections\Projects\Homework 1\Name\Name\obj\Debug\Name.exe
+D:\Lections\Projects\Homework 1\Name\Name\obj\Debug\Name.pdb

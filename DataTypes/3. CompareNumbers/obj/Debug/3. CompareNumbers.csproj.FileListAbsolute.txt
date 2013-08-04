@@ -1,0 +1,5 @@
+D:\Lections\Projects\Homework 2\Homework2DataTypes\3. CompareNumbers\bin\Debug\_3.CompareNumbers.exe.config
+D:\Lections\Projects\Homework 2\Homework2DataTypes\3. CompareNumbers\bin\Debug\_3.CompareNumbers.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\3. CompareNumbers\bin\Debug\_3.CompareNumbers.pdb
+D:\Lections\Projects\Homework 2\Homework2DataTypes\3. CompareNumbers\obj\Debug\_3.CompareNumbers.exe
+D:\Lections\Projects\Homework 2\Homework2DataTypes\3. CompareNumbers\obj\Debug\_3.CompareNumbers.pdb
